@@ -8,6 +8,8 @@
 * Stata commands specified below. Local file paths should be set by the
 * user before running.
 *
+* Author: Jeevitha Mariapun
+*
 * NOTE: Dataset files themselves are not included with this code.
 **************************************************************************/
 
